@@ -1,0 +1,479 @@
+{"word": "爬", "keywordList": [{"keyword": "爬虫", "sum": 250}, {"keyword": "爬取", "sum": 23}]}
+{"word": "办", "keywordList": [{"keyword": "办公", "sum": 130}]}
+{"word": "自", "keywordList": [{"keyword": "自动化", "sum": 50}, {"keyword": "自动", "sum": 65}, {"keyword": "自动化办公", "sum": 15}, {"keyword": "自然语言处理", "sum": 522}, {"keyword": "自学", "sum": 65}, {"keyword": "自己的", "sum": 17}, {"keyword": "自学教程", "sum": 26}, {"keyword": "自制", "sum": 34}, {"keyword": "自己", "sum": 26}, {"keyword": "自定义", "sum": 27}, {"keyword": "自动生成", "sum": 20}, {"keyword": "自然语言", "sum": 28}]}
+{"word": "十", "keywordList": [{"keyword": "十天学会", "sum": 12}, {"keyword": "十分钟", "sum": 15}]}
+{"word": "开", "keywordList": [{"keyword": "开发", "sum": 699}, {"keyword": "开始", "sum": 37}, {"keyword": "开源项目", "sum": 17}, {"keyword": "开源", "sum": 18}]}
+{"word": "接", "keywordList": [{"keyword": "接口", "sum": 29}]}
+{"word": "零", "keywordList": [{"keyword": "零基础", "sum": 533}]}
+{"word": "入", "keywordList": [{"keyword": "入门", "sum": 1156}, {"keyword": "入浅出", "sum": 25}, {"keyword": "入坑指南", "sum": 18}]}
+{"word": "内", "keywordList": [{"keyword": "内容", "sum": 31}, {"keyword": "内存", "sum": 13}]}
+{"word": "二", "keywordList": [{"keyword": "二次开发", "sum": 12}, {"keyword": "二级", "sum": 137}, {"keyword": "二叉树", "sum": 12}]}
+{"word": "框", "keywordList": [{"keyword": "框架", "sum": 357}]}
+{"word": "学", "keywordList": [{"keyword": "学院", "sum": 60}, {"keyword": "学习", "sum": 555}, {"keyword": "学生", "sum": 14}, {"keyword": "学编程", "sum": 13}, {"keyword": "学会", "sum": 47}, {"keyword": "学生管理系统", "sum": 11}]}
+{"word": "基", "keywordList": [{"keyword": "基础", "sum": 992}, {"keyword": "基于", "sum": 212}, {"keyword": "基于深度学习的", "sum": 18}]}
+{"word": "课", "keywordList": [{"keyword": "课程", "sum": 671}, {"keyword": "课时", "sum": 19}, {"keyword": "课堂", "sum": 34}, {"keyword": "课件", "sum": 18}]}
+{"word": "快", "keywordList": [{"keyword": "快速入门", "sum": 139}, {"keyword": "快速", "sum": 150}, {"keyword": "快来", "sum": 12}]}
+{"word": "系", "keywordList": [{"keyword": "系列课程", "sum": 68}, {"keyword": "系统", "sum": 205}, {"keyword": "系列", "sum": 296}]}
+{"word": "项", "keywordList": [{"keyword": "项目", "sum": 442}]}
+{"word": "实", "keywordList": [{"keyword": "实战", "sum": 1054}, {"keyword": "实现", "sum": 191}, {"keyword": "实用", "sum": 24}, {"keyword": "实例", "sum": 25}, {"keyword": "实验", "sum": 24}, {"keyword": "实践", "sum": 103}, {"keyword": "实操", "sum": 22}]}
+{"word": "环", "keywordList": [{"keyword": "环境", "sum": 129}]}
+{"word": "配", "keywordList": [{"keyword": "配置", "sum": 87}]}
+{"word": "详", "keywordList": [{"keyword": "详解", "sum": 78}, {"keyword": "详细讲解", "sum": 13}, {"keyword": "详细", "sum": 33}]}
+{"word": "商", "keywordList": [{"keyword": "商城", "sum": 17}, {"keyword": "商业", "sum": 11}, {"keyword": "商务", "sum": 23}, {"keyword": "商业数据分析", "sum": 12}]}
+{"word": "教", "keywordList": [{"keyword": "教程", "sum": 1628}, {"keyword": "教学", "sum": 132}, {"keyword": "教你玩转", "sum": 12}, {"keyword": "教你", "sum": 54}, {"keyword": "教你用", "sum": 23}, {"keyword": "教学视频", "sum": 35}, {"keyword": "教你如何", "sum": 21}, {"keyword": "教你做", "sum": 11}, {"keyword": "教学之", "sum": 17}]}
+{"word": "到", "keywordList": [{"keyword": "到精通", "sum": 107}, {"keyword": "到实战", "sum": 22}, {"keyword": "到高级", "sum": 23}, {"keyword": "到底", "sum": 18}, {"keyword": "到进阶", "sum": 11}]}
+{"word": "第", "keywordList": [{"keyword": "第一季", "sum": 32}, {"keyword": "第一", "sum": 49}, {"keyword": "第一讲", "sum": 16}, {"keyword": "第二", "sum": 35}, {"keyword": "第一期", "sum": 27}, {"keyword": "第一课", "sum": 36}, {"keyword": "第二期", "sum": 16}, {"keyword": "第二部分", "sum": 17}, {"keyword": "第二章", "sum": 15}, {"keyword": "第三章", "sum": 19}, {"keyword": "第三期", "sum": 19}, {"keyword": "第一章", "sum": 17}, {"keyword": "第一部分", "sum": 48}, {"keyword": "第二季", "sum": 14}, {"keyword": "第三季", "sum": 11}, {"keyword": "第四", "sum": 20}, {"keyword": "第十", "sum": 18}, {"keyword": "第二课", "sum": 26}, {"keyword": "第三", "sum": 24}, {"keyword": "第三课", "sum": 19}, {"keyword": "第一周", "sum": 18}, {"keyword": "第四课", "sum": 14}]}
+{"word": "统", "keywordList": [{"keyword": "统计", "sum": 44}, {"keyword": "统计分析", "sum": 26}]}
+{"word": "面", "keywordList": [{"keyword": "面向对象", "sum": 103}, {"keyword": "面试", "sum": 173}, {"keyword": "面试题", "sum": 50}, {"keyword": "面向", "sum": 33}]}
+{"word": "编", "keywordList": [{"keyword": "编程", "sum": 568}, {"keyword": "编写", "sum": 31}, {"keyword": "编辑", "sum": 11}]}
+{"word": "京", "keywordList": [{"keyword": "京东", "sum": 15}]}
+{"word": "电", "keywordList": [{"keyword": "电商项目", "sum": 15}, {"keyword": "电商", "sum": 18}, {"keyword": "电影", "sum": 13}, {"keyword": "电脑", "sum": 28}]}
+{"word": "双", "keywordList": [{"keyword": "双语", "sum": 16}, {"keyword": "双语字幕", "sum": 12}]}
+{"word": "企", "keywordList": [{"keyword": "企业", "sum": 46}]}
+{"word": "网", "keywordList": [{"keyword": "网站", "sum": 58}, {"keyword": "网站开发", "sum": 17}, {"keyword": "网络", "sum": 199}, {"keyword": "网页", "sum": 16}, {"keyword": "网页设计", "sum": 18}]}
+{"word": "插", "keywordList": [{"keyword": "插件", "sum": 20}, {"keyword": "插入", "sum": 40}]}
+{"word": "博", "keywordList": [{"keyword": "博客", "sum": 11}, {"keyword": "博士", "sum": 25}, {"keyword": "博客开发", "sum": 17}]}
+{"word": "高", "keywordList": [{"keyword": "高级", "sum": 124}, {"keyword": "高薪之路系列", "sum": 15}, {"keyword": "高手", "sum": 31}, {"keyword": "高清", "sum": 36}, {"keyword": "高级教程", "sum": 58}, {"keyword": "高级篇", "sum": 17}, {"keyword": "高并发", "sum": 33}, {"keyword": "高效", "sum": 20}, {"keyword": "高效办公", "sum": 11}, {"keyword": "高级课程", "sum": 13}, {"keyword": "高级开发", "sum": 17}, {"keyword": "高级编程", "sum": 27}, {"keyword": "高性能", "sum": 23}, {"keyword": "高级实战", "sum": 16}, {"keyword": "高级进阶", "sum": 22}]}
+{"word": "程", "keywordList": [{"keyword": "程序员", "sum": 112}, {"keyword": "程序设计", "sum": 266}, {"keyword": "程序", "sum": 96}, {"keyword": "程序员面试", "sum": 13}]}
+{"word": "解", "keywordList": [{"keyword": "解决方案", "sum": 11}, {"keyword": "解析", "sum": 45}, {"keyword": "解读", "sum": 32}, {"keyword": "解决", "sum": 30}]}
+{"word": "赚", "keywordList": [{"keyword": "赚钱", "sum": 11}]}
+{"word": "视", "keywordList": [{"keyword": "视频教程", "sum": 408}, {"keyword": "视觉", "sum": 62}, {"keyword": "视频", "sum": 403}, {"keyword": "视觉识别", "sum": 13}]}
+{"word": "使", "keywordList": [{"keyword": "使用", "sum": 287}]}
+{"word": "挑", "keywordList": [{"keyword": "挑战", "sum": 36}]}
+{"word": "工", "keywordList": [{"keyword": "工作", "sum": 44}, {"keyword": "工程师", "sum": 109}, {"keyword": "工具", "sum": 55}, {"keyword": "工程", "sum": 19}]}
+{"word": "找", "keywordList": [{"keyword": "找工作", "sum": 21}]}
+{"word": "通", "keywordList": [{"keyword": "通关", "sum": 17}, {"keyword": "通俗易懂", "sum": 24}, {"keyword": "通过", "sum": 34}, {"keyword": "通关宝典", "sum": 11}]}
+{"word": "小", "keywordList": [{"keyword": "小项目", "sum": 11}, {"keyword": "小程序", "sum": 17}, {"keyword": "小时入门", "sum": 11}, {"keyword": "小时", "sum": 57}, {"keyword": "小白入门", "sum": 18}, {"keyword": "小白", "sum": 60}, {"keyword": "小时学会", "sum": 23}, {"keyword": "小技巧", "sum": 89}, {"keyword": "小甲鱼", "sum": 30}, {"keyword": "小游戏", "sum": 37}, {"keyword": "小姐姐", "sum": 18}, {"keyword": "小课堂", "sum": 15}, {"keyword": "小白到高手", "sum": 11}, {"keyword": "小米", "sum": 13}, {"keyword": "小问小答", "sum": 11}, {"keyword": "小白系列", "sum": 20}]}
+{"word": "知", "keywordList": [{"keyword": "知识点", "sum": 41}, {"keyword": "知识", "sum": 89}]}
+{"word": "数", "keywordList": [{"keyword": "数据", "sum": 1088}, {"keyword": "数据分析", "sum": 1173}, {"keyword": "数学基础", "sum": 17}, {"keyword": "数学", "sum": 21}, {"keyword": "数字", "sum": 11}, {"keyword": "数组", "sum": 11}]}
+{"word": "调", "keywordList": [{"keyword": "调试", "sum": 28}, {"keyword": "调用", "sum": 13}]}
+{"word": "破", "keywordList": [{"keyword": "破解", "sum": 19}]}
+{"word": "精", "keywordList": [{"keyword": "精通", "sum": 55}, {"keyword": "精讲", "sum": 74}, {"keyword": "精品", "sum": 14}, {"keyword": "精讲视频", "sum": 11}, {"keyword": "精品课", "sum": 16}, {"keyword": "精讲及搭建自己的", "sum": 12}, {"keyword": "精品就业班", "sum": 12}]}
+{"word": "全", "keywordList": [{"keyword": "全栈", "sum": 81}, {"keyword": "全栈开发", "sum": 18}, {"keyword": "全系列", "sum": 11}, {"keyword": "全栈工程师", "sum": 18}, {"keyword": "全新", "sum": 19}, {"keyword": "全套视频", "sum": 53}, {"keyword": "全套课程", "sum": 13}, {"keyword": "全面", "sum": 16}, {"keyword": "全国计算机", "sum": 19}, {"keyword": "全集", "sum": 87}, {"keyword": "全套", "sum": 107}, {"keyword": "全套教程", "sum": 17}, {"keyword": "全部", "sum": 11}, {"keyword": "全程", "sum": 26}, {"keyword": "全网最", "sum": 32}, {"keyword": "全网", "sum": 11}, {"keyword": "全国计算机一级", "sum": 41}]}
+{"word": "就", "keywordList": [{"keyword": "就业班", "sum": 58}, {"keyword": "就业", "sum": 31}, {"keyword": "就是", "sum": 14}]}
+{"word": "管", "keywordList": [{"keyword": "管理系统", "sum": 31}, {"keyword": "管理", "sum": 40}]}
+{"word": "量", "keywordList": [{"keyword": "量化", "sum": 19}, {"keyword": "量化交易", "sum": 19}]}
+{"word": "上", "keywordList": [{"keyword": "上手", "sum": 32}, {"keyword": "上位机", "sum": 16}]}
+{"word": "特", "keywordList": [{"keyword": "特训班", "sum": 18}, {"keyword": "特效", "sum": 13}]}
+{"word": "与", "keywordList": [{"keyword": "与机器学习实战", "sum": 27}, {"keyword": "与数据", "sum": 88}, {"keyword": "与可视化", "sum": 19}, {"keyword": "与实战", "sum": 24}, {"keyword": "与实践", "sum": 17}, {"keyword": "与分析", "sum": 15}, {"keyword": "与神经网络", "sum": 17}, {"keyword": "与应用", "sum": 44}, {"keyword": "与展示", "sum": 18}, {"keyword": "与挖掘", "sum": 15}, {"keyword": "与深度学习", "sum": 60}, {"keyword": "与人类语言处理", "sum": 12}, {"keyword": "与信息管理", "sum": 14}]}
+{"word": "从", "keywordList": [{"keyword": "从入门到", "sum": 94}, {"keyword": "从零", "sum": 25}, {"keyword": "从零开始", "sum": 57}, {"keyword": "从入门到精通", "sum": 163}, {"keyword": "从小白到", "sum": 26}]}
+{"word": "机", "keywordList": [{"keyword": "机器学习", "sum": 426}, {"keyword": "机器人", "sum": 20}, {"keyword": "机器", "sum": 43}]}
+{"word": "所", "keywordList": [{"keyword": "所有", "sum": 17}]}
+{"word": "人", "keywordList": [{"keyword": "人工智能", "sum": 355}, {"keyword": "人实用", "sum": 12}, {"keyword": "人力资源", "sum": 14}, {"keyword": "人脸识别", "sum": 32}, {"keyword": "人工", "sum": 28}, {"keyword": "人脸检测", "sum": 13}]}
+{"word": "进", "keywordList": [{"keyword": "进阶", "sum": 269}, {"keyword": "进行", "sum": 42}, {"keyword": "进行数据分析", "sum": 16}]}
+{"word": "应", "keywordList": [{"keyword": "应用", "sum": 222}]}
+{"word": "研", "keywordList": [{"keyword": "研究", "sum": 28}, {"keyword": "研讨会", "sum": 12}]}
+{"word": "代", "keywordList": [{"keyword": "代码", "sum": 169}, {"keyword": "代做", "sum": 20}]}
+{"word": "免", "keywordList": [{"keyword": "免费", "sum": 88}]}
+{"word": "安", "keywordList": [{"keyword": "安卓", "sum": 18}, {"keyword": "安全", "sum": 20}, {"keyword": "安装", "sum": 130}]}
+{"word": "金", "keywordList": [{"keyword": "金融", "sum": 73}, {"keyword": "金融数据分析", "sum": 17}]}
+{"word": "游", "keywordList": [{"keyword": "游戏", "sum": 347}]}
+{"word": "算", "keywordList": [{"keyword": "算法", "sum": 245}]}
+{"word": "结", "keywordList": [{"keyword": "结构", "sum": 147}, {"keyword": "结构与算法", "sum": 63}, {"keyword": "结果", "sum": 16}, {"keyword": "结合", "sum": 11}]}
+{"word": "计", "keywordList": [{"keyword": "计算机", "sum": 296}, {"keyword": "计算", "sum": 80}]}
+{"word": "操", "keywordList": [{"keyword": "操作", "sum": 178}]}
+{"word": "财", "keywordList": [{"keyword": "财务", "sum": 45}]}
+{"word": "建", "keywordList": [{"keyword": "建模", "sum": 38}, {"keyword": "建议", "sum": 14}]}
+{"word": "必", "keywordList": [{"keyword": "必学", "sum": 26}, {"keyword": "必备", "sum": 52}, {"keyword": "必看", "sum": 36}, {"keyword": "必备技能", "sum": 18}, {"keyword": "必备原理与实战", "sum": 13}]}
+{"word": "语", "keywordList": [{"keyword": "语言", "sum": 1437}, {"keyword": "语音识别", "sum": 15}, {"keyword": "语法", "sum": 29}, {"keyword": "语音", "sum": 21}]}
+{"word": "撩", "keywordList": [{"keyword": "撩课", "sum": 13}]}
+{"word": "大", "keywordList": [{"keyword": "大数据", "sum": 155}, {"keyword": "大全", "sum": 39}, {"keyword": "大型", "sum": 13}, {"keyword": "大牛", "sum": 11}, {"keyword": "大神", "sum": 53}, {"keyword": "大学", "sum": 80}, {"keyword": "大家", "sum": 14}, {"keyword": "大规模", "sum": 13}, {"keyword": "大厂面试", "sum": 15}, {"keyword": "大佬", "sum": 12}, {"keyword": "大厂", "sum": 13}]}
+{"word": "分", "keywordList": [{"keyword": "分析", "sum": 319}, {"keyword": "分享", "sum": 91}, {"keyword": "分布式", "sum": 49}, {"keyword": "分钟", "sum": 118}, {"keyword": "分钟快速", "sum": 11}, {"keyword": "分钟搞定", "sum": 14}, {"keyword": "分钟学会", "sum": 30}, {"keyword": "分类", "sum": 50}]}
+{"word": "你", "keywordList": [{"keyword": "你的", "sum": 17}]}
+{"word": "玩", "keywordList": [{"keyword": "玩转", "sum": 89}, {"keyword": "玩转数据", "sum": 15}, {"keyword": "玩家", "sum": 12}]}
+{"word": "可", "keywordList": [{"keyword": "可视化", "sum": 123}, {"keyword": "可以", "sum": 20}]}
+{"word": "神", "keywordList": [{"keyword": "神器", "sum": 24}, {"keyword": "神经网络", "sum": 748}, {"keyword": "神经", "sum": 14}]}
+{"word": "职", "keywordList": [{"keyword": "职场", "sum": 55}, {"keyword": "职场必备", "sum": 12}]}
+{"word": "如", "keywordList": [{"keyword": "如何", "sum": 372}]}
+{"word": "领", "keywordList": [{"keyword": "领域", "sum": 11}]}
+{"word": "架", "keywordList": [{"keyword": "架构", "sum": 74}, {"keyword": "架构师", "sum": 30}]}
+{"word": "深", "keywordList": [{"keyword": "深度学习", "sum": 1490}, {"keyword": "深度", "sum": 86}]}
+{"word": "抖", "keywordList": [{"keyword": "抖音", "sum": 19}]}
+{"word": "预", "keywordList": [{"keyword": "预处理", "sum": 13}, {"keyword": "预测", "sum": 37}]}
+{"word": "天", "keywordList": [{"keyword": "天入门", "sum": 11}, {"keyword": "天学会", "sum": 13}]}
+{"word": "图", "keywordList": [{"keyword": "图像处理", "sum": 38}, {"keyword": "图像", "sum": 20}, {"keyword": "图表", "sum": 67}, {"keyword": "图片", "sum": 47}, {"keyword": "图像识别", "sum": 14}, {"keyword": "图表大全", "sum": 31}, {"keyword": "图神经网络", "sum": 38}]}
+{"word": "强", "keywordList": [{"keyword": "强化学习", "sum": 23}, {"keyword": "强烈推荐", "sum": 14}, {"keyword": "强推", "sum": 12}]}
+{"word": "最", "keywordList": [{"keyword": "最新版", "sum": 37}, {"keyword": "最全", "sum": 14}, {"keyword": "最强", "sum": 16}, {"keyword": "最新", "sum": 174}, {"keyword": "最新教程", "sum": 16}, {"keyword": "最好的", "sum": 11}, {"keyword": "最简版", "sum": 13}, {"keyword": "最新版题库", "sum": 11}, {"keyword": "最新深度学习与", "sum": 18}]}
+{"word": "挖", "keywordList": [{"keyword": "挖掘", "sum": 519}]}
+{"word": "线", "keywordList": [{"keyword": "线性回归", "sum": 23}]}
+{"word": "剖", "keywordList": [{"keyword": "剖析", "sum": 12}]}
+{"word": "函", "keywordList": [{"keyword": "函数", "sum": 251}]}
+{"word": "时", "keywordList": [{"keyword": "时间序列", "sum": 14}, {"keyword": "时间", "sum": 23}]}
+{"word": "梯", "keywordList": [{"keyword": "梯度下降", "sum": 15}]}
+{"word": "老", "keywordList": [{"keyword": "老师", "sum": 115}, {"keyword": "老男孩", "sum": 21}]}
+{"word": "新", "keywordList": [{"keyword": "新手", "sum": 20}, {"keyword": "新版", "sum": 16}, {"keyword": "新特性", "sum": 12}, {"keyword": "新手教程", "sum": 19}]}
+{"word": "轻", "keywordList": [{"keyword": "轻松", "sum": 102}]}
+{"word": "经", "keywordList": [{"keyword": "经典", "sum": 60}, {"keyword": "经验分享", "sum": 15}, {"keyword": "经典项目开发", "sum": 21}, {"keyword": "经典游戏", "sum": 13}, {"keyword": "经验", "sum": 12}, {"keyword": "经验月薪", "sum": 12}, {"keyword": "经典入门课程", "sum": 20}]}
+{"word": "公", "keywordList": [{"keyword": "公开课", "sum": 167}, {"keyword": "公式", "sum": 44}, {"keyword": "公司", "sum": 19}]}
+{"word": "简", "keywordList": [{"keyword": "简介", "sum": 52}, {"keyword": "简历", "sum": 13}, {"keyword": "简单", "sum": 85}, {"keyword": "简单的", "sum": 12}]}
+{"word": "科", "keywordList": [{"keyword": "科学", "sum": 44}, {"keyword": "科研绘图", "sum": 21}, {"keyword": "科普", "sum": 16}, {"keyword": "科技", "sum": 17}, {"keyword": "科研", "sum": 13}]}
+{"word": "案", "keywordList": [{"keyword": "案例", "sum": 210}]}
+{"word": "抓", "keywordList": [{"keyword": "抓取", "sum": 13}]}
+{"word": "搭", "keywordList": [{"keyword": "搭建", "sum": 134}]}
+{"word": "指", "keywordList": [{"keyword": "指导", "sum": 12}, {"keyword": "指南", "sum": 49}, {"keyword": "指南系列", "sum": 18}, {"keyword": "指针", "sum": 40}]}
+{"word": "手", "keywordList": [{"keyword": "手把手", "sum": 23}, {"keyword": "手把手教你", "sum": 57}, {"keyword": "手写", "sum": 29}, {"keyword": "手机", "sum": 27}, {"keyword": "手写数字识别", "sum": 28}, {"keyword": "手写数字", "sum": 18}]}
+{"word": "带", "keywordList": [{"keyword": "带你", "sum": 131}]}
+{"word": "直", "keywordList": [{"keyword": "直播", "sum": 58}, {"keyword": "直接", "sum": 18}, {"keyword": "直播回放", "sum": 16}]}
+{"word": "聊", "keywordList": [{"keyword": "聊天", "sum": 23}, {"keyword": "聊天机器人", "sum": 16}]}
+{"word": "掌", "keywordList": [{"keyword": "掌握", "sum": 59}]}
+{"word": "训", "keywordList": [{"keyword": "训营", "sum": 12}, {"keyword": "训练营", "sum": 43}, {"keyword": "训练", "sum": 135}]}
+{"word": "软", "keywordList": [{"keyword": "软件", "sum": 158}, {"keyword": "软谋教育", "sum": 16}]}
+{"word": "专", "keywordList": [{"keyword": "专题", "sum": 45}, {"keyword": "专家", "sum": 12}, {"keyword": "专业", "sum": 28}]}
+{"word": "极", "keywordList": [{"keyword": "极客", "sum": 11}, {"keyword": "极简", "sum": 17}, {"keyword": "极客学院", "sum": 17}, {"keyword": "极致授课教学", "sum": 12}]}
+{"word": "测", "keywordList": [{"keyword": "测试", "sum": 25}]}
+{"word": "功", "keywordList": [{"keyword": "功能", "sum": 73}]}
+{"word": "方", "keywordList": [{"keyword": "方向", "sum": 41}, {"keyword": "方法", "sum": 59}]}
+{"word": "培", "keywordList": [{"keyword": "培训", "sum": 89}]}
+{"word": "脚", "keywordList": [{"keyword": "脚本", "sum": 25}]}
+{"word": "千", "keywordList": [{"keyword": "千锋", "sum": 118}]}
+{"word": "物", "keywordList": [{"keyword": "物体检测", "sum": 16}]}
+{"word": "股", "keywordList": [{"keyword": "股票", "sum": 16}]}
+{"word": "疫", "keywordList": [{"keyword": "疫情", "sum": 52}]}
+{"word": "生", "keywordList": [{"keyword": "生物信息", "sum": 13}, {"keyword": "生成", "sum": 38}, {"keyword": "生成对抗网络", "sum": 12}]}
+{"word": "集", "keywordList": [{"keyword": "集锦", "sum": 11}, {"keyword": "集训营", "sum": 15}, {"keyword": "集全", "sum": 21}, {"keyword": "集智俱乐部", "sum": 18}, {"keyword": "集智", "sum": 20}]}
+{"word": "原", "keywordList": [{"keyword": "原理与", "sum": 15}, {"keyword": "原理", "sum": 91}]}
+{"word": "模", "keywordList": [{"keyword": "模型", "sum": 123}, {"keyword": "模式", "sum": 76}, {"keyword": "模块", "sum": 27}, {"keyword": "模板", "sum": 59}, {"keyword": "模拟", "sum": 16}, {"keyword": "模型的", "sum": 11}, {"keyword": "模式之", "sum": 11}]}
+{"word": "并", "keywordList": [{"keyword": "并发编程", "sum": 15}, {"keyword": "并发", "sum": 13}]}
+{"word": "处", "keywordList": [{"keyword": "处理", "sum": 142}]}
+{"word": "中", "keywordList": [{"keyword": "中的", "sum": 62}, {"keyword": "中的应用", "sum": 26}, {"keyword": "中字", "sum": 22}, {"keyword": "中级", "sum": 12}, {"keyword": "中文字幕", "sum": 54}, {"keyword": "中文版", "sum": 11}, {"keyword": "中国", "sum": 26}, {"keyword": "中国大学", "sum": 29}, {"keyword": "中文", "sum": 38}, {"keyword": "中英", "sum": 45}, {"keyword": "中英字幕", "sum": 124}, {"keyword": "中科院", "sum": 17}]}
+{"word": "讲", "keywordList": [{"keyword": "讲座", "sum": 24}, {"keyword": "讲解", "sum": 166}]}
+{"word": "平", "keywordList": [{"keyword": "平台", "sum": 37}, {"keyword": "平面设计", "sum": 12}]}
+{"word": "垃", "keywordList": [{"keyword": "垃圾", "sum": 22}]}
+{"word": "常", "keywordList": [{"keyword": "常用", "sum": 46}, {"keyword": "常用数据", "sum": 16}]}
+{"word": "黑", "keywordList": [{"keyword": "黑客", "sum": 20}, {"keyword": "黑马程序员", "sum": 55}, {"keyword": "黑客技术", "sum": 14}, {"keyword": "黑马", "sum": 60}, {"keyword": "黑客编程", "sum": 11}]}
+{"word": "英", "keywordList": [{"keyword": "英文", "sum": 42}, {"keyword": "英语", "sum": 34}, {"keyword": "英字", "sum": 12}, {"keyword": "英文字幕", "sum": 156}, {"keyword": "英语中字", "sum": 19}]}
+{"word": "设", "keywordList": [{"keyword": "设计", "sum": 262}]}
+{"word": "成", "keywordList": [{"keyword": "成为", "sum": 16}]}
+{"word": "核", "keywordList": [{"keyword": "核心", "sum": 59}, {"keyword": "核心技术", "sum": 26}]}
+{"word": "后", "keywordList": [{"keyword": "后端", "sum": 16}, {"keyword": "后台", "sum": 14}]}
+{"word": "淘", "keywordList": [{"keyword": "淘宝", "sum": 27}]}
+{"word": "运", "keywordList": [{"keyword": "运营", "sum": 15}, {"keyword": "运行", "sum": 32}, {"keyword": "运算", "sum": 14}]}
+{"word": "智", "keywordList": [{"keyword": "智能", "sum": 67}]}
+{"word": "和", "keywordList": [{"keyword": "和算法", "sum": 18}, {"keyword": "和深度学习", "sum": 30}, {"keyword": "和人工智能", "sum": 22}]}
+{"word": "技", "keywordList": [{"keyword": "技术", "sum": 98}, {"keyword": "技术之", "sum": 22}, {"keyword": "技巧", "sum": 207}, {"keyword": "技能", "sum": 38}, {"keyword": "技巧不求人", "sum": 27}]}
+{"word": "互", "keywordList": [{"keyword": "互联网", "sum": 45}]}
+{"word": "完", "keywordList": [{"keyword": "完整版", "sum": 81}, {"keyword": "完结", "sum": 81}, {"keyword": "完整", "sum": 35}, {"keyword": "完成", "sum": 22}]}
+{"word": "源", "keywordList": [{"keyword": "源码", "sum": 76}, {"keyword": "源代码", "sum": 14}]}
+{"word": "反", "keywordList": [{"keyword": "反射", "sum": 13}, {"keyword": "反向传播", "sum": 20}]}
+{"word": "百", "keywordList": [{"keyword": "百度", "sum": 47}]}
+{"word": "前", "keywordList": [{"keyword": "前端开发", "sum": 15}, {"keyword": "前端", "sum": 27}]}
+{"word": "阶", "keywordList": [{"keyword": "阶段", "sum": 42}]}
+{"word": "韩", "keywordList": [{"keyword": "韩顺平", "sum": 22}]}
+{"word": "增", "keywordList": [{"keyword": "增强", "sum": 11}]}
+{"word": "宝", "keywordList": [{"keyword": "宝典", "sum": 15}]}
+{"word": "虚", "keywordList": [{"keyword": "虚拟", "sum": 12}, {"keyword": "虚拟机", "sum": 14}, {"keyword": "虚幻四", "sum": 27}]}
+{"word": "微", "keywordList": [{"keyword": "微服务", "sum": 37}, {"keyword": "微信小程序", "sum": 12}, {"keyword": "微信", "sum": 20}, {"keyword": "微软", "sum": 30}]}
+{"word": "合", "keywordList": [{"keyword": "合集", "sum": 99}, {"keyword": "合辑", "sum": 27}]}
+{"word": "报", "keywordList": [{"keyword": "报表", "sum": 11}, {"keyword": "报告", "sum": 17}]}
+{"word": "控", "keywordList": [{"keyword": "控制", "sum": 28}, {"keyword": "控件", "sum": 17}]}
+{"word": "干", "keywordList": [{"keyword": "干货", "sum": 63}]}
+{"word": "仓", "keywordList": [{"keyword": "仓库", "sum": 12}]}
+{"word": "打", "keywordList": [{"keyword": "打造", "sum": 49}, {"keyword": "打印", "sum": 14}]}
+{"word": "练", "keywordList": [{"keyword": "练习", "sum": 40}]}
+{"word": "整", "keywordList": [{"keyword": "整合", "sum": 13}, {"keyword": "整理", "sum": 19}]}
+{"word": "验", "keywordList": [{"keyword": "验证", "sum": 21}]}
+{"word": "提", "keywordList": [{"keyword": "提升", "sum": 24}, {"keyword": "提高", "sum": 23}, {"keyword": "提取", "sum": 13}]}
+{"word": "构", "keywordList": [{"keyword": "构建", "sum": 18}]}
+{"word": "理", "keywordList": [{"keyword": "理解", "sum": 40}, {"keyword": "理论", "sum": 31}, {"keyword": "理工大学", "sum": 30}, {"keyword": "理论与算法", "sum": 13}]}
+{"word": "逻", "keywordList": [{"keyword": "逻辑", "sum": 35}]}
+{"word": "揭", "keywordList": [{"keyword": "揭秘", "sum": 15}]}
+{"word": "参", "keywordList": [{"keyword": "参数", "sum": 18}, {"keyword": "参考文献", "sum": 19}]}
+{"word": "来", "keywordList": [{"keyword": "来了", "sum": 11}]}
+{"word": "在", "keywordList": [{"keyword": "在线", "sum": 41}, {"keyword": "在家", "sum": 13}, {"keyword": "在家学", "sum": 12}]}
+{"word": "推", "keywordList": [{"keyword": "推箱子", "sum": 15}, {"keyword": "推荐", "sum": 94}]}
+{"word": "贪", "keywordList": [{"keyword": "贪吃蛇", "sum": 31}]}
+{"word": "综", "keywordList": [{"keyword": "综合", "sum": 42}]}
+{"word": "动", "keywordList": [{"keyword": "动画", "sum": 115}, {"keyword": "动态图表", "sum": 12}, {"keyword": "动态", "sum": 26}, {"keyword": "动画制作", "sum": 14}, {"keyword": "动画教程", "sum": 12}, {"keyword": "动手学深度学习", "sum": 45}]}
+{"word": "排", "keywordList": [{"keyword": "排版", "sum": 85}]}
+{"word": "透", "keywordList": [{"keyword": "透视表", "sum": 62}, {"keyword": "透视", "sum": 12}]}
+{"word": "飞", "keywordList": [{"keyword": "飞机大战", "sum": 14}]}
+{"word": "俄", "keywordList": [{"keyword": "俄罗斯方块", "sum": 21}]}
+{"word": "秘", "keywordList": [{"keyword": "秘笈", "sum": 12}]}
+{"word": "思", "keywordList": [{"keyword": "思维", "sum": 28}, {"keyword": "思维导图", "sum": 12}, {"keyword": "思路", "sum": 11}]}
+{"word": "五", "keywordList": [{"keyword": "五子棋", "sum": 18}]}
+{"word": "体", "keywordList": [{"keyword": "体系", "sum": 11}, {"keyword": "体验", "sum": 30}]}
+{"word": "之", "keywordList": [{"keyword": "之路", "sum": 19}, {"keyword": "之数据", "sum": 24}, {"keyword": "之神经网络", "sum": 22}]}
+{"word": "遗", "keywordList": [{"keyword": "遗传算法", "sum": 18}]}
+{"word": "速", "keywordList": [{"keyword": "速成", "sum": 25}, {"keyword": "速学", "sum": 15}, {"keyword": "速成课", "sum": 14}]}
+{"word": "我", "keywordList": [{"keyword": "我的", "sum": 21}, {"keyword": "我们", "sum": 13}, {"keyword": "我用", "sum": 19}, {"keyword": "我的世界", "sum": 47}]}
+{"word": "嵌", "keywordList": [{"keyword": "嵌入式", "sum": 25}]}
+{"word": "部", "keywordList": [{"keyword": "部分", "sum": 80}, {"keyword": "部署", "sum": 14}]}
+{"word": "考", "keywordList": [{"keyword": "考点", "sum": 15}, {"keyword": "考研", "sum": 24}, {"keyword": "考试", "sum": 31}]}
+{"word": "真", "keywordList": [{"keyword": "真题", "sum": 17}]}
+{"word": "搞", "keywordList": [{"keyword": "搞定", "sum": 69}, {"keyword": "搞懂", "sum": 15}]}
+{"word": "毕", "keywordList": [{"keyword": "毕业", "sum": 98}]}
+{"word": "论", "keywordList": [{"keyword": "论文", "sum": 133}]}
+{"word": "文", "keywordList": [{"keyword": "文档", "sum": 46}, {"keyword": "文字", "sum": 39}, {"keyword": "文本分类", "sum": 27}, {"keyword": "文件", "sum": 44}, {"keyword": "文本", "sum": 24}, {"keyword": "文献", "sum": 12}, {"keyword": "文字幕", "sum": 12}]}
+{"word": "格", "keywordList": [{"keyword": "格式", "sum": 21}]}
+{"word": "主", "keywordList": [{"keyword": "主题", "sum": 13}, {"keyword": "主讲", "sum": 31}]}
+{"word": "优", "keywordList": [{"keyword": "优化", "sum": 28}]}
+{"word": "表", "keywordList": [{"keyword": "表格", "sum": 72}, {"keyword": "表格制作", "sum": 22}]}
+{"word": "地", "keywordList": [{"keyword": "地图", "sum": 20}]}
+{"word": "问", "keywordList": [{"keyword": "问题", "sum": 43}, {"keyword": "问答", "sum": 65}, {"keyword": "问卷数据分析论文班", "sum": 17}]}
+{"word": "每", "keywordList": [{"keyword": "每天", "sum": 11}, {"keyword": "每日一题讲解", "sum": 30}]}
+{"word": "桌", "keywordList": [{"keyword": "桌面", "sum": 35}]}
+{"word": "三", "keywordList": [{"keyword": "三分钟", "sum": 17}, {"keyword": "三维", "sum": 11}]}
+{"word": "汇", "keywordList": [{"keyword": "汇总", "sum": 16}, {"keyword": "汇编", "sum": 15}]}
+{"word": "制", "keywordList": [{"keyword": "制作", "sum": 348}]}
+{"word": "初", "keywordList": [{"keyword": "初级", "sum": 20}, {"keyword": "初学", "sum": 14}, {"keyword": "初学者", "sum": 48}, {"keyword": "初识", "sum": 13}]}
+{"word": "不", "keywordList": [{"keyword": "不一样", "sum": 14}, {"keyword": "不是", "sum": 14}, {"keyword": "不用", "sum": 26}, {"keyword": "不求人", "sum": 13}]}
+{"word": "让", "keywordList": [{"keyword": "让你", "sum": 43}, {"keyword": "让机器", "sum": 17}]}
+{"word": "节", "keywordList": [{"keyword": "节课", "sum": 18}]}
+{"word": "会", "keywordList": [{"keyword": "会计", "sum": 11}]}
+{"word": "演", "keywordList": [{"keyword": "演示", "sum": 71}, {"keyword": "演讲", "sum": 12}]}
+{"word": "版", "keywordList": [{"keyword": "版本", "sum": 54}]}
+{"word": "查", "keywordList": [{"keyword": "查询", "sum": 13}]}
+{"word": "效", "keywordList": [{"keyword": "效率", "sum": 14}, {"keyword": "效果", "sum": 25}]}
+{"word": "彻", "keywordList": [{"keyword": "彻底", "sum": 29}]}
+{"word": "已", "keywordList": [{"keyword": "已完结", "sum": 19}]}
+{"word": "起", "keywordList": [{"keyword": "起来", "sum": 11}]}
+{"word": "背", "keywordList": [{"keyword": "背景", "sum": 13}]}
+{"word": "出", "keywordList": [{"keyword": "出品", "sum": 15}]}
+{"word": "一", "keywordList": [{"keyword": "一分钟", "sum": 13}, {"keyword": "一小时", "sum": 24}, {"keyword": "一起", "sum": 21}, {"keyword": "一个", "sum": 61}, {"keyword": "一下", "sum": 16}, {"keyword": "一个简单的", "sum": 11}, {"keyword": "一起啃书", "sum": 19}]}
+{"word": "也", "keywordList": [{"keyword": "也能", "sum": 20}, {"keyword": "也可以", "sum": 11}]}
+{"word": "怎", "keywordList": [{"keyword": "怎么", "sum": 64}]}
+{"word": "付", "keywordList": [{"keyword": "付费", "sum": 15}]}
+{"word": "好", "keywordList": [{"keyword": "好的", "sum": 12}]}
+{"word": "炫", "keywordList": [{"keyword": "炫酷", "sum": 16}]}
+{"word": "封", "keywordList": [{"keyword": "封面", "sum": 22}]}
+{"word": "超", "keywordList": [{"keyword": "超级", "sum": 11}, {"keyword": "超参数调试", "sum": 13}, {"keyword": "超详细", "sum": 35}, {"keyword": "超越菜鸟第", "sum": 15}]}
+{"word": "流", "keywordList": [{"keyword": "流程", "sum": 13}]}
+{"word": "移", "keywordList": [{"keyword": "移动", "sum": 13}]}
+{"word": "改", "keywordList": [{"keyword": "改善深层神经网络", "sum": 16}]}
+{"word": "正", "keywordList": [{"keyword": "正则化以及优化", "sum": 13}]}
+{"word": "卷", "keywordList": [{"keyword": "卷积神经网络", "sum": 183}, {"keyword": "卷积", "sum": 25}]}
+{"word": "八", "keywordList": [{"keyword": "八课", "sum": 12}]}
+{"word": "更", "keywordList": [{"keyword": "更新", "sum": 62}]}
+{"word": "及", "keywordList": [{"keyword": "及其应用", "sum": 12}, {"keyword": "及其", "sum": 14}]}
+{"word": "牛", "keywordList": [{"keyword": "牛津大学", "sum": 11}]}
+{"word": "词", "keywordList": [{"keyword": "词向量", "sum": 18}, {"keyword": "词汇", "sum": 11}]}
+{"word": "的", "keywordList": [{"keyword": "的深度学习", "sum": 23}, {"keyword": "的数据", "sum": 22}, {"keyword": "的安装", "sum": 24}, {"keyword": "的学习", "sum": 11}, {"keyword": "的使用", "sum": 14}, {"keyword": "的神", "sum": 11}, {"keyword": "的卷积神经网络", "sum": 11}, {"keyword": "的神经网络", "sum": 21}, {"keyword": "的自然语言处理", "sum": 18}]}
+{"word": "选", "keywordList": [{"keyword": "选择", "sum": 21}]}
+{"word": "价", "keywordList": [{"keyword": "价值", "sum": 16}]}
+{"word": "芯", "keywordList": [{"keyword": "芯片", "sum": 18}]}
+{"word": "竞", "keywordList": [{"keyword": "竞赛", "sum": 11}]}
+{"word": "探", "keywordList": [{"keyword": "探索", "sum": 19}]}
+{"word": "下", "keywordList": [{"keyword": "下载", "sum": 36}, {"keyword": "下载链接", "sum": 11}]}
+{"word": "做", "keywordList": [{"keyword": "做数据分析", "sum": 12}, {"keyword": "做一个", "sum": 20}, {"keyword": "做出", "sum": 14}, {"keyword": "做的", "sum": 12}]}
+{"word": "银", "keywordList": [{"keyword": "银行", "sum": 15}]}
+{"word": "攻", "keywordList": [{"keyword": "攻略", "sum": 18}]}
+{"word": "浙", "keywordList": [{"keyword": "浙江大学", "sum": 48}]}
+{"word": "翁", "keywordList": [{"keyword": "翁恺", "sum": 27}]}
+{"word": "尚", "keywordList": [{"keyword": "尚硅谷", "sum": 57}, {"keyword": "尚学堂", "sum": 30}]}
+{"word": "克", "keywordList": [{"keyword": "克大战", "sum": 14}]}
+{"word": "适", "keywordList": [{"keyword": "适合", "sum": 76}]}
+{"word": "笔", "keywordList": [{"keyword": "笔记", "sum": 72}, {"keyword": "笔试面试刷题", "sum": 32}]}
+{"word": "为", "keywordList": [{"keyword": "为什么", "sum": 58}]}
+{"word": "样", "keywordList": [{"keyword": "样的", "sum": 15}]}
+{"word": "史", "keywordList": [{"keyword": "史上最", "sum": 52}]}
+{"word": "链", "keywordList": [{"keyword": "链表", "sum": 16}]}
+{"word": "谭", "keywordList": [{"keyword": "谭浩强", "sum": 12}]}
+{"word": "清", "keywordList": [{"keyword": "清华大学", "sum": 96}, {"keyword": "清华", "sum": 20}]}
+{"word": "尹", "keywordList": [{"keyword": "尹成", "sum": 39}]}
+{"word": "持", "keywordList": [{"keyword": "持续更新", "sum": 49}]}
+{"word": "是", "keywordList": [{"keyword": "是什么", "sum": 32}, {"keyword": "是怎么", "sum": 11}, {"keyword": "是神经网络", "sum": 14}]}
+{"word": "级", "keywordList": [{"keyword": "级开发", "sum": 11}]}
+{"word": "路", "keywordList": [{"keyword": "路线", "sum": 25}]}
+{"word": "刷", "keywordList": [{"keyword": "刷题", "sum": 14}]}
+{"word": "有", "keywordList": [{"keyword": "有字幕", "sum": 19}]}
+{"word": "这", "keywordList": [{"keyword": "这个", "sum": 27}, {"keyword": "这些", "sum": 19}]}
+{"word": "世", "keywordList": [{"keyword": "世界", "sum": 50}]}
+{"word": "单", "keywordList": [{"keyword": "单片机", "sum": 52}, {"keyword": "单词", "sum": 11}]}
+{"word": "答", "keywordList": [{"keyword": "答辩", "sum": 43}]}
+{"word": "作", "keywordList": [{"keyword": "作品", "sum": 14}, {"keyword": "作业", "sum": 23}]}
+{"word": "传", "keywordList": [{"keyword": "传智播客", "sum": 38}, {"keyword": "传智", "sum": 12}]}
+{"word": "播", "keywordList": [{"keyword": "播放", "sum": 12}, {"keyword": "播放器", "sum": 14}]}
+{"word": "音", "keywordList": [{"keyword": "音乐", "sum": 19}]}
+{"word": "突", "keywordList": [{"keyword": "突击", "sum": 15}]}
+{"word": "还", "keywordList": [{"keyword": "还原", "sum": 17}, {"keyword": "还是", "sum": 22}]}
+{"word": "腾", "keywordList": [{"keyword": "腾讯", "sum": 41}]}
+{"word": "翻", "keywordList": [{"keyword": "翻译", "sum": 48}]}
+{"word": "相", "keywordList": [{"keyword": "相关", "sum": 38}]}
+{"word": "看", "keywordList": [{"keyword": "看看", "sum": 15}, {"keyword": "看完", "sum": 19}]}
+{"word": "感", "keywordList": [{"keyword": "感受", "sum": 12}]}
+{"word": "服", "keywordList": [{"keyword": "服务器", "sum": 67}, {"keyword": "服务", "sum": 28}]}
+{"word": "阅", "keywordList": [{"keyword": "阅读", "sum": 27}]}
+{"word": "侯", "keywordList": [{"keyword": "侯捷", "sum": 26}]}
+{"word": "搜", "keywordList": [{"keyword": "搜索", "sum": 37}]}
+{"word": "循", "keywordList": [{"keyword": "循环", "sum": 68}]}
+{"word": "扫", "keywordList": [{"keyword": "扫雷", "sum": 11}]}
+{"word": "什", "keywordList": [{"keyword": "什么", "sum": 77}]}
+{"word": "了", "keywordList": [{"keyword": "了解", "sum": 25}]}
+{"word": "油", "keywordList": [{"keyword": "油管", "sum": 39}]}
+{"word": "比", "keywordList": [{"keyword": "比较", "sum": 13}]}
+{"word": "苹", "keywordList": [{"keyword": "苹果", "sum": 22}]}
+{"word": "关", "keywordList": [{"keyword": "关于", "sum": 11}]}
+{"word": "标", "keywordList": [{"keyword": "标准", "sum": 14}]}
+{"word": "行", "keywordList": [{"keyword": "行代码", "sum": 33}, {"keyword": "行业", "sum": 11}]}
+{"word": "无", "keywordList": [{"keyword": "无字幕", "sum": 11}]}
+{"word": "萌", "keywordList": [{"keyword": "萌新", "sum": 17}]}
+{"word": "远", "keywordList": [{"keyword": "远程", "sum": 17}]}
+{"word": "资", "keywordList": [{"keyword": "资料", "sum": 21}, {"keyword": "资源", "sum": 17}]}
+{"word": "未", "keywordList": [{"keyword": "未来", "sum": 34}]}
+{"word": "需", "keywordList": [{"keyword": "需要", "sum": 19}]}
+{"word": "角", "keywordList": [{"keyword": "角色", "sum": 12}]}
+{"word": "今", "keywordList": [{"keyword": "今天", "sum": 28}]}
+{"word": "蓝", "keywordList": [{"keyword": "蓝桥杯", "sum": 12}]}
+{"word": "类", "keywordList": [{"keyword": "类型", "sum": 23}]}
+{"word": "输", "keywordList": [{"keyword": "输入", "sum": 19}]}
+{"word": "多", "keywordList": [{"keyword": "多线程", "sum": 34}, {"keyword": "多元线性回归分析", "sum": 11}]}
+{"word": "介", "keywordList": [{"keyword": "介绍", "sum": 96}]}
+{"word": "竟", "keywordList": [{"keyword": "竟然", "sum": 19}]}
+{"word": "界", "keywordList": [{"keyword": "界面", "sum": 20}]}
+{"word": "底", "keywordList": [{"keyword": "底层原理", "sum": 12}, {"keyword": "底层", "sum": 14}]}
+{"word": "字", "keywordList": [{"keyword": "字幕", "sum": 33}]}
+{"word": "告", "keywordList": [{"keyword": "告诉你", "sum": 22}]}
+{"word": "植", "keywordList": [{"keyword": "植物大战僵尸", "sum": 13}]}
+{"word": "信", "keywordList": [{"keyword": "信息", "sum": 21}, {"keyword": "信号处理", "sum": 12}]}
+{"word": "懒", "keywordList": [{"keyword": "懒猫老师", "sum": 18}]}
+{"word": "慕", "keywordList": [{"keyword": "慕课", "sum": 11}]}
+{"word": "屏", "keywordList": [{"keyword": "屏幕", "sum": 12}]}
+{"word": "辅", "keywordList": [{"keyword": "辅助", "sum": 15}]}
+{"word": "利", "keywordList": [{"keyword": "利用", "sum": 91}]}
+{"word": "授", "keywordList": [{"keyword": "授课", "sum": 15}, {"keyword": "授授课", "sum": 38}]}
+{"word": "矩", "keywordList": [{"keyword": "矩阵", "sum": 16}]}
+{"word": "北", "keywordList": [{"keyword": "北京大学", "sum": 63}, {"keyword": "北京", "sum": 46}]}
+{"word": "没", "keywordList": [{"keyword": "没有", "sum": 32}]}
+{"word": "对", "keywordList": [{"keyword": "对象", "sum": 11}, {"keyword": "对比", "sum": 24}]}
+{"word": "外", "keywordList": [{"keyword": "外挂", "sum": 14}]}
+{"word": "再", "keywordList": [{"keyword": "再也不", "sum": 14}]}
+{"word": "密", "keywordList": [{"keyword": "密码", "sum": 13}]}
+{"word": "登", "keywordList": [{"keyword": "登录", "sum": 15}]}
+{"word": "坚", "keywordList": [{"keyword": "坚持", "sum": 12}]}
+{"word": "复", "keywordList": [{"keyword": "复习", "sum": 15}, {"keyword": "复习与拓展", "sum": 12}]}
+{"word": "仿", "keywordList": [{"keyword": "仿真", "sum": 11}]}
+{"word": "国", "keywordList": [{"keyword": "国家精品", "sum": 22}, {"keyword": "国语", "sum": 25}]}
+{"word": "变", "keywordList": [{"keyword": "变量", "sum": 25}]}
+{"word": "岗", "keywordList": [{"keyword": "岗位", "sum": 17}]}
+{"word": "树", "keywordList": [{"keyword": "树莓派", "sum": 20}]}
+{"word": "支", "keywordList": [{"keyword": "支持", "sum": 30}]}
+{"word": "搬", "keywordList": [{"keyword": "搬运", "sum": 70}]}
+{"word": "修", "keywordList": [{"keyword": "修改", "sum": 12}]}
+{"word": "发", "keywordList": [{"keyword": "发布", "sum": 17}]}
+{"word": "转", "keywordList": [{"keyword": "转载", "sum": 12}, {"keyword": "转换", "sum": 14}]}
+{"word": "扩", "keywordList": [{"keyword": "扩展", "sum": 19}]}
+{"word": "以", "keywordList": [{"keyword": "以及", "sum": 41}]}
+{"word": "年", "keywordList": [{"keyword": "年最新", "sum": 37}, {"keyword": "年月薪", "sum": 11}]}
+{"word": "创", "keywordList": [{"keyword": "创建", "sum": 30}]}
+{"word": "概", "keywordList": [{"keyword": "概述", "sum": 25}]}
+{"word": "批", "keywordList": [{"keyword": "批量", "sum": 53}]}
+{"word": "加", "keywordList": [{"keyword": "加载", "sum": 11}, {"keyword": "加速", "sum": 15}]}
+{"word": "客", "keywordList": [{"keyword": "客户端", "sum": 16}]}
+{"word": "过", "keywordList": [{"keyword": "过程", "sum": 28}]}
+{"word": "猿", "keywordList": [{"keyword": "猿地", "sum": 34}]}
+{"word": "审", "keywordList": [{"keyword": "审计", "sum": 32}]}
+{"word": "各", "keywordList": [{"keyword": "各种", "sum": 15}]}
+{"word": "震", "keywordList": [{"keyword": "震惊", "sum": 17}]}
+{"word": "月", "keywordList": [{"keyword": "月薪", "sum": 15}]}
+{"word": "连", "keywordList": [{"keyword": "连接", "sum": 13}]}
+{"word": "现", "keywordList": [{"keyword": "现在", "sum": 15}]}
+{"word": "丁", "keywordList": [{"keyword": "丁哥", "sum": 12}]}
+{"word": "泰", "keywordList": [{"keyword": "泰牛程序员", "sum": 11}]}
+{"word": "阿", "keywordList": [{"keyword": "阿里", "sum": 40}, {"keyword": "阿里巴巴", "sum": 14}]}
+{"word": "弹", "keywordList": [{"keyword": "弹幕", "sum": 16}]}
+{"word": "导", "keywordList": [{"keyword": "导入", "sum": 16}, {"keyword": "导论", "sum": 33}]}
+{"word": "个", "keywordList": [{"keyword": "个人", "sum": 16}]}
+{"word": "回", "keywordList": [{"keyword": "回答", "sum": 13}, {"keyword": "回归", "sum": 42}]}
+{"word": "朋", "keywordList": [{"keyword": "朋友", "sum": 14}]}
+{"word": "展", "keywordList": [{"keyword": "展示", "sum": 32}]}
+{"word": "布", "keywordList": [{"keyword": "布尔教育", "sum": 11}]}
+{"word": "素", "keywordList": [{"keyword": "素材", "sum": 15}]}
+{"word": "任", "keywordList": [{"keyword": "任务", "sum": 22}]}
+{"word": "显", "keywordList": [{"keyword": "显示", "sum": 12}]}
+{"word": "筛", "keywordList": [{"keyword": "筛选", "sum": 11}]}
+{"word": "引", "keywordList": [{"keyword": "引擎", "sum": 11}]}
+{"word": "目", "keywordList": [{"keyword": "目录", "sum": 24}, {"keyword": "目标检测", "sum": 66}, {"keyword": "目标识别", "sum": 14}]}
+{"word": "获", "keywordList": [{"keyword": "获取", "sum": 28}]}
+{"word": "准", "keywordList": [{"keyword": "准备", "sum": 24}]}
+{"word": "居", "keywordList": [{"keyword": "居然", "sum": 20}]}
+{"word": "事", "keywordList": [{"keyword": "事件", "sum": 12}]}
+{"word": "总", "keywordList": [{"keyword": "总结", "sum": 23}]}
+{"word": "莫", "keywordList": [{"keyword": "莫烦", "sum": 24}]}
+{"word": "麻", "keywordList": [{"keyword": "麻省理工", "sum": 22}]}
+{"word": "记", "keywordList": [{"keyword": "记录", "sum": 15}]}
+{"word": "唐", "keywordList": [{"keyword": "唐宇迪", "sum": 26}]}
+{"word": "判", "keywordList": [{"keyword": "判断", "sum": 15}]}
+{"word": "采", "keywordList": [{"keyword": "采集", "sum": 12}]}
+{"word": "日", "keywordList": [{"keyword": "日常", "sum": 26}]}
+{"word": "识", "keywordList": [{"keyword": "识别", "sum": 74}]}
+{"word": "检", "keywordList": [{"keyword": "检测", "sum": 36}]}
+{"word": "情", "keywordList": [{"keyword": "情感分析", "sum": 20}]}
+{"word": "绘", "keywordList": [{"keyword": "绘制", "sum": 33}]}
+{"word": "纽", "keywordList": [{"keyword": "纽约", "sum": 22}]}
+{"word": "七", "keywordList": [{"keyword": "七周成为数据分析师", "sum": 11}]}
+{"word": "王", "keywordList": [{"keyword": "王者", "sum": 13}, {"keyword": "王佩丰", "sum": 19}]}
+{"word": "绝", "keywordList": [{"keyword": "绝对", "sum": 13}]}
+{"word": "读", "keywordList": [{"keyword": "读取", "sum": 23}]}
+{"word": "子", "keywordList": [{"keyword": "子豪兄", "sum": 24}]}
+{"word": "终", "keywordList": [{"keyword": "终于", "sum": 11}]}
+{"word": "团", "keywordList": [{"keyword": "团队", "sum": 18}]}
+{"word": "马", "keywordList": [{"keyword": "马士兵", "sum": 22}]}
+{"word": "狂", "keywordList": [{"keyword": "狂神说", "sum": 44}]}
+{"word": "官", "keywordList": [{"keyword": "官方", "sum": 87}]}
+{"word": "谷", "keywordList": [{"keyword": "谷歌", "sum": 12}]}
+{"word": "东", "keywordList": [{"keyword": "东方", "sum": 17}]}
+{"word": "种", "keywordList": [{"keyword": "种设计模式", "sum": 14}]}
+{"word": "评", "keywordList": [{"keyword": "评价", "sum": 11}]}
+{"word": "遇", "keywordList": [{"keyword": "遇到", "sum": 13}]}
+{"word": "说", "keywordList": [{"keyword": "说明", "sum": 12}]}
+{"word": "添", "keywordList": [{"keyword": "添加", "sum": 17}]}
+{"word": "那", "keywordList": [{"keyword": "那些", "sum": 11}]}
+{"word": "华", "keywordList": [{"keyword": "华为", "sum": 12}]}
+{"word": "补", "keywordList": [{"keyword": "补充", "sum": 12}]}
+{"word": "斯", "keywordList": [{"keyword": "斯坦福", "sum": 164}]}
+{"word": "厉", "keywordList": [{"keyword": "厉害了", "sum": 38}]}
+{"word": "委", "keywordList": [{"keyword": "委托", "sum": 12}]}
+{"word": "窗", "keywordList": [{"keyword": "窗体", "sum": 19}]}
+{"word": "喵", "keywordList": [{"keyword": "喵喵酱搬运组", "sum": 13}]}
+{"word": "张", "keywordList": [{"keyword": "张行健", "sum": 23}]}
+{"word": "火", "keywordList": [{"keyword": "火焰识别", "sum": 14}]}
+{"word": "卡", "keywordList": [{"keyword": "卡成", "sum": 27}]}
+{"word": "录", "keywordList": [{"keyword": "录相", "sum": 13}]}
+{"word": "页", "keywordList": [{"keyword": "页码", "sum": 13}]}
+{"word": "医", "keywordList": [{"keyword": "医学", "sum": 21}]}
+{"word": "拉", "keywordList": [{"keyword": "拉字至上", "sum": 24}]}
+{"word": "徐", "keywordList": [{"keyword": "徐军泰", "sum": 11}]}
+{"word": "用", "keywordList": [{"keyword": "用数据", "sum": 12}]}
+{"word": "产", "keywordList": [{"keyword": "产品", "sum": 19}]}
+{"word": "陈", "keywordList": [{"keyword": "陈老师", "sum": 90}]}
+{"word": "李", "keywordList": [{"keyword": "李宏毅", "sum": 70}]}
+{"word": "本", "keywordList": [{"keyword": "本正一", "sum": 11}]}
+{"word": "明", "keywordList": [{"keyword": "明日方舟", "sum": 13}]}
+{"word": "吴", "keywordList": [{"keyword": "吴恩达", "sum": 87}]}
+{"word": "联", "keywordList": [{"keyword": "联播", "sum": 11}]}
+{"word": "四", "keywordList": [{"keyword": "四月深度学习读书视频", "sum": 31}]}
+{"word": "霸", "keywordList": [{"keyword": "霸权预定", "sum": 31}]}
+{"word": "递", "keywordList": [{"keyword": "递归神经网络", "sum": 11}]}
+{"word": "写", "keywordList": [{"keyword": "写小说", "sum": 15}]}
+{"word": "者", "keywordList": [{"keyword": "者峰会", "sum": 35}]}
+{"word": "宗", "keywordList": [{"keyword": "宗成庆", "sum": 19}]}
+{"word": "哥", "keywordList": [{"keyword": "哥伦比亚大学自然语言", "sum": 17}]}
+{"word": "首", "keywordList": [{"keyword": "首届", "sum": 12}]}
+{"word": "海", "keywordList": [{"keyword": "海量数据挖掘", "sum": 12}]}
+{"word": "决", "keywordList": [{"keyword": "决策树", "sum": 12}]}
+{"word": "薪", "keywordList": [{"keyword": "薪酬绩效和数据分析的", "sum": 11}]}
+{"word": "p", "keywordList": [{"keyword": "python", "sum": 2562}, {"keyword": "php", "sum": 1195}, {"keyword": "power", "sum": 86}, {"keyword": "powerbi", "sum": 13}, {"keyword": "pandas", "sum": 114}, {"keyword": "pyqt", "sum": 16}, {"keyword": "pycharm", "sum": 20}, {"keyword": "ps", "sum": 80}, {"keyword": "pr", "sum": 27}, {"keyword": "ppt", "sum": 1465}, {"keyword": "pdf", "sum": 40}, {"keyword": "p", "sum": 179}, {"keyword": "powerpoint", "sum": 37}, {"keyword": "pytorch", "sum": 909}, {"keyword": "primer", "sum": 15}, {"keyword": "part", "sum": 85}, {"keyword": "pro", "sum": 16}, {"keyword": "pv", "sum": 17}, {"keyword": "programming", "sum": 28}, {"keyword": "paperweekly", "sum": 14}, {"keyword": "processing", "sum": 41}, {"keyword": "pycon", "sum": 15}]}
+{"word": "t", "keywordList": [{"keyword": "thinkphp", "sum": 50}, {"keyword": "t", "sum": 47}, {"keyword": "tensorflow", "sum": 1375}, {"keyword": "tcga", "sum": 12}, {"keyword": "tableau", "sum": 34}, {"keyword": "ti", "sum": 17}, {"keyword": "text", "sum": 17}, {"keyword": "tutorial", "sum": 96}, {"keyword": "to", "sum": 132}, {"keyword": "top", "sum": 13}, {"keyword": "the", "sum": 193}, {"keyword": "tutorials", "sum": 15}, {"keyword": "tf", "sum": 62}, {"keyword": "transformer", "sum": 22}, {"keyword": "time", "sum": 20}, {"keyword": "transfer", "sum": 20}, {"keyword": "training", "sum": 16}, {"keyword": "tensorboard", "sum": 13}, {"keyword": "torch", "sum": 12}]}
+{"word": "a", "keywordList": [{"keyword": "api", "sum": 43}, {"keyword": "app", "sum": 44}, {"keyword": "ai", "sum": 345}, {"keyword": "android", "sum": 21}, {"keyword": "a", "sum": 132}, {"keyword": "amos", "sum": 27}, {"keyword": "arcgis", "sum": 11}, {"keyword": "ajax", "sum": 11}, {"keyword": "ae", "sum": 33}, {"keyword": "asp", "sum": 35}, {"keyword": "access", "sum": 12}, {"keyword": "amp", "sum": 233}, {"keyword": "arduino", "sum": 13}, {"keyword": "apple", "sum": 16}, {"keyword": "and", "sum": 171}, {"keyword": "apache", "sum": 15}, {"keyword": "anaconda", "sum": 17}, {"keyword": "analysis", "sum": 19}, {"keyword": "an", "sum": 21}, {"keyword": "all", "sum": 13}, {"keyword": "attention", "sum": 18}]}
+{"word": "j", "keywordList": [{"keyword": "jquery", "sum": 14}, {"keyword": "java", "sum": 1480}, {"keyword": "javaee", "sum": 17}, {"keyword": "javascript", "sum": 72}, {"keyword": "javaweb", "sum": 24}, {"keyword": "js", "sum": 54}, {"keyword": "jvm", "sum": 29}, {"keyword": "jdk", "sum": 11}, {"keyword": "jurafsky", "sum": 24}]}
+{"word": "v", "keywordList": [{"keyword": "vue", "sum": 13}, {"keyword": "vba", "sum": 86}, {"keyword": "vip", "sum": 21}, {"keyword": "vlog", "sum": 26}, {"keyword": "vi", "sum": 11}, {"keyword": "vs", "sum": 97}, {"keyword": "vlookup", "sum": 34}, {"keyword": "vc", "sum": 14}, {"keyword": "visual", "sum": 31}, {"keyword": "vscode", "sum": 49}, {"keyword": "v", "sum": 33}, {"keyword": "video", "sum": 12}, {"keyword": "vec", "sum": 61}, {"keyword": "victor", "sum": 13}]}
+{"word": "w", "keywordList": [{"keyword": "win", "sum": 41}, {"keyword": "web", "sum": 86}, {"keyword": "winform", "sum": 53}, {"keyword": "wpf", "sum": 33}, {"keyword": "word", "sum": 1251}, {"keyword": "wps", "sum": 50}, {"keyword": "wordpress", "sum": 18}, {"keyword": "windows", "sum": 54}, {"keyword": "w", "sum": 53}, {"keyword": "world", "sum": 37}, {"keyword": "with", "sum": 287}, {"keyword": "what", "sum": 20}, {"keyword": "week", "sum": 14}, {"keyword": "workshop", "sum": 11}]}
+{"word": "f", "keywordList": [{"keyword": "flask", "sum": 29}, {"keyword": "fintech", "sum": 14}, {"keyword": "for", "sum": 149}, {"keyword": "fast", "sum": 26}, {"keyword": "faster", "sum": 13}, {"keyword": "from", "sum": 28}, {"keyword": "f", "sum": 41}, {"keyword": "framework", "sum": 14}, {"keyword": "fps", "sum": 16}, {"keyword": "fastai", "sum": 24}]}
+{"word": "d", "keywordList": [{"keyword": "django", "sum": 30}, {"keyword": "d", "sum": 103}, {"keyword": "docker", "sum": 15}, {"keyword": "dw", "sum": 15}, {"keyword": "demo", "sum": 37}, {"keyword": "dev", "sum": 31}, {"keyword": "data", "sum": 69}, {"keyword": "day", "sum": 70}, {"keyword": "developer", "sum": 17}, {"keyword": "dll", "sum": 12}, {"keyword": "dl", "sum": 12}, {"keyword": "deep", "sum": 273}, {"keyword": "deeplearning", "sum": 19}, {"keyword": "darknet", "sum": 12}, {"keyword": "dan", "sum": 24}, {"keyword": "detection", "sum": 44}, {"keyword": "dataset", "sum": 13}, {"keyword": "datasets", "sum": 14}]}
+{"word": "u", "keywordList": [{"keyword": "unity", "sum": 114}, {"keyword": "ui", "sum": 49}, {"keyword": "ue", "sum": 35}, {"keyword": "up", "sum": 93}, {"keyword": "u", "sum": 36}, {"keyword": "using", "sum": 44}]}
+{"word": "c", "keywordList": [{"keyword": "c", "sum": 4353}, {"keyword": "caffe", "sum": 30}, {"keyword": "cloud", "sum": 12}, {"keyword": "css", "sum": 22}, {"keyword": "cs", "sum": 164}, {"keyword": "code", "sum": 31}, {"keyword": "coding", "sum": 23}, {"keyword": "coursera", "sum": 12}, {"keyword": "composer", "sum": 21}, {"keyword": "course", "sum": 23}, {"keyword": "cnn", "sum": 138}, {"keyword": "core", "sum": 14}, {"keyword": "cmu", "sum": 48}, {"keyword": "convolutional", "sum": 20}, {"keyword": "cv", "sum": 31}, {"keyword": "chris", "sum": 32}, {"keyword": "cifar", "sum": 16}, {"keyword": "chapter", "sum": 16}, {"keyword": "collins", "sum": 18}, {"keyword": "classification", "sum": 33}, {"keyword": "conference", "sum": 20}]}
+{"word": "l", "keywordList": [{"keyword": "linux", "sum": 107}, {"keyword": "learn", "sum": 21}, {"keyword": "leetcode", "sum": 53}, {"keyword": "language", "sum": 58}, {"keyword": "l", "sum": 82}, {"keyword": "laravel", "sum": 41}, {"keyword": "laracasts", "sum": 12}, {"keyword": "library", "sum": 12}, {"keyword": "learning", "sum": 311}, {"keyword": "list", "sum": 13}, {"keyword": "live", "sum": 23}, {"keyword": "lecture", "sum": 18}, {"keyword": "last", "sum": 20}, {"keyword": "laurel", "sum": 11}, {"keyword": "level", "sum": 19}, {"keyword": "lstm", "sum": 41}, {"keyword": "lenet", "sum": 11}, {"keyword": "lecun", "sum": 15}, {"keyword": "lavrenko", "sum": 13}, {"keyword": "lite", "sum": 48}]}
+{"word": "e", "keywordList": [{"keyword": "excel", "sum": 1635}, {"keyword": "easy", "sum": 26}, {"keyword": "e", "sum": 42}, {"keyword": "ep", "sum": 16}, {"keyword": "exe", "sum": 19}, {"keyword": "entity", "sum": 12}, {"keyword": "endnote", "sum": 13}, {"keyword": "embedding", "sum": 11}, {"keyword": "expansion", "sum": 12}]}
+{"word": "k", "keywordList": [{"keyword": "kali", "sum": 17}, {"keyword": "k", "sum": 67}, {"keyword": "keynote", "sum": 15}, {"keyword": "keras", "sum": 104}, {"keyword": "kaggle", "sum": 29}]}
+{"word": "s", "keywordList": [{"keyword": "sql", "sum": 52}, {"keyword": "spark", "sum": 37}, {"keyword": "stata", "sum": 17}, {"keyword": "sklearn", "sum": 11}, {"keyword": "spring", "sum": 71}, {"keyword": "springboot", "sum": 45}, {"keyword": "springcloud", "sum": 15}, {"keyword": "s", "sum": 114}, {"keyword": "springmvc", "sum": 40}, {"keyword": "ssm", "sum": 17}, {"keyword": "swing", "sum": 11}, {"keyword": "socket", "sum": 23}, {"keyword": "sqlserver", "sum": 17}, {"keyword": "spss", "sum": 273}, {"keyword": "sas", "sum": 29}, {"keyword": "seq", "sum": 23}, {"keyword": "studio", "sum": 29}, {"keyword": "stl", "sum": 22}, {"keyword": "swoole", "sum": 32}, {"keyword": "session", "sum": 15}, {"keyword": "system", "sum": 17}, {"keyword": "siki", "sum": 22}, {"keyword": "study", "sum": 16}, {"keyword": "style", "sum": 12}, {"keyword": "stanford", "sum": 19}, {"keyword": "ssd", "sum": 17}, {"keyword": "summit", "sum": 18}, {"keyword": "styletransfer", "sum": 12}, {"keyword": "spssau", "sum": 22}]}
+{"word": "b", "keywordList": [{"keyword": "b", "sum": 146}, {"keyword": "bi", "sum": 42}, {"keyword": "bert", "sum": 46}, {"keyword": "boot", "sum": 17}, {"keyword": "basic", "sum": 14}, {"keyword": "bad", "sum": 22}, {"keyword": "by", "sum": 167}, {"keyword": "bat", "sum": 18}, {"keyword": "build", "sum": 14}, {"keyword": "bilibili", "sum": 13}, {"keyword": "bp", "sum": 45}, {"keyword": "basics", "sum": 12}, {"keyword": "biendata", "sum": 11}, {"keyword": "based", "sum": 11}]}
+{"word": "n", "keywordList": [{"keyword": "numpy", "sum": 63}, {"keyword": "nginx", "sum": 17}, {"keyword": "nlp", "sum": 287}, {"keyword": "ng", "sum": 11}, {"keyword": "n", "sum": 145}, {"keyword": "net", "sum": 139}, {"keyword": "new", "sum": 11}, {"keyword": "neural", "sum": 134}, {"keyword": "network", "sum": 64}, {"keyword": "networks", "sum": 59}, {"keyword": "neubig", "sum": 13}, {"keyword": "nets", "sum": 21}, {"keyword": "nvidia", "sum": 15}, {"keyword": "natural", "sum": 44}]}
+{"word": "m", "keywordList": [{"keyword": "matplotlib", "sum": 32}, {"keyword": "mysql", "sum": 125}, {"keyword": "mybatis", "sum": 33}, {"keyword": "me", "sum": 21}, {"keyword": "matlab", "sum": 111}, {"keyword": "mos", "sum": 16}, {"keyword": "ms", "sum": 25}, {"keyword": "microsoft", "sum": 17}, {"keyword": "m", "sum": 19}, {"keyword": "mac", "sum": 26}, {"keyword": "mfc", "sum": 24}, {"keyword": "mooc", "sum": 44}, {"keyword": "mp", "sum": 16}, {"keyword": "mobile", "sum": 17}, {"keyword": "mvc", "sum": 17}, {"keyword": "mit", "sum": 68}, {"keyword": "mnist", "sum": 38}, {"keyword": "mc", "sum": 21}, {"keyword": "minecraft", "sum": 40}, {"keyword": "made", "sum": 17}, {"keyword": "my", "sum": 11}, {"keyword": "michael", "sum": 19}, {"keyword": "mxnet", "sum": 31}, {"keyword": "mv", "sum": 13}, {"keyword": "machine", "sum": 43}, {"keyword": "model", "sum": 24}, {"keyword": "ml", "sum": 29}, {"keyword": "manning", "sum": 33}, {"keyword": "models", "sum": 14}, {"keyword": "mining", "sum": 29}]}
+{"word": "g", "keywordList": [{"keyword": "gui", "sum": 21}, {"keyword": "g", "sum": 27}, {"keyword": "gan", "sum": 32}, {"keyword": "geo", "sum": 26}, {"keyword": "go", "sum": 57}, {"keyword": "github", "sum": 15}, {"keyword": "gt", "sum": 21}, {"keyword": "get", "sum": 12}, {"keyword": "google", "sum": 48}, {"keyword": "game", "sum": 11}, {"keyword": "gordon", "sum": 18}, {"keyword": "generation", "sum": 20}, {"keyword": "gluon", "sum": 28}, {"keyword": "gpu", "sum": 54}, {"keyword": "graph", "sum": 14}, {"keyword": "graham", "sum": 13}, {"keyword": "geoffrey", "sum": 11}]}
+{"word": "o", "keywordList": [{"keyword": "opencv", "sum": 81}, {"keyword": "offer", "sum": 27}, {"keyword": "oeasy", "sum": 30}, {"keyword": "office", "sum": 165}, {"keyword": "op", "sum": 11}, {"keyword": "object", "sum": 36}, {"keyword": "o", "sum": 22}, {"keyword": "of", "sum": 60}, {"keyword": "on", "sum": 54}]}
+{"word": "r", "keywordList": [{"keyword": "r", "sum": 156}, {"keyword": "redis", "sum": 45}, {"keyword": "rcnn", "sum": 22}, {"keyword": "re", "sum": 24}, {"keyword": "rtx", "sum": 12}, {"keyword": "ramsay", "sum": 14}, {"keyword": "research", "sum": 11}, {"keyword": "rnn", "sum": 42}, {"keyword": "resnet", "sum": 18}, {"keyword": "review", "sum": 15}, {"keyword": "regression", "sum": 17}]}
+{"word": "h", "keywordList": [{"keyword": "hr", "sum": 16}, {"keyword": "hadoop", "sum": 19}, {"keyword": "html", "sum": 37}, {"keyword": "h", "sum": 29}, {"keyword": "hinton", "sum": 17}, {"keyword": "hello", "sum": 24}, {"keyword": "halcon", "sum": 11}, {"keyword": "how", "sum": 23}, {"keyword": "holloman", "sum": 11}, {"keyword": "hindi", "sum": 32}, {"keyword": "hands", "sum": 13}]}
+{"word": "q", "keywordList": [{"keyword": "qq", "sum": 35}, {"keyword": "qt", "sum": 40}, {"keyword": "query", "sum": 17}, {"keyword": "quot", "sum": 33}, {"keyword": "q", "sum": 31}]}
+{"word": "i", "keywordList": [{"keyword": "id", "sum": 13}, {"keyword": "ii", "sum": 12}, {"keyword": "i", "sum": 41}, {"keyword": "it", "sum": 18}, {"keyword": "idea", "sum": 54}, {"keyword": "ing", "sum": 11}, {"keyword": "ios", "sum": 11}, {"keyword": "ipad", "sum": 20}, {"keyword": "ip", "sum": 11}, {"keyword": "in", "sum": 131}, {"keyword": "if", "sum": 14}, {"keyword": "introduction", "sum": 50}, {"keyword": "is", "sum": 37}, {"keyword": "intro", "sum": 19}, {"keyword": "image", "sum": 18}]}
+{"word": "y", "keywordList": [{"keyword": "yolo", "sum": 50}, {"keyword": "youtube", "sum": 15}, {"keyword": "yolov", "sum": 50}, {"keyword": "you", "sum": 16}, {"keyword": "your", "sum": 14}, {"keyword": "yann", "sum": 13}]}
+{"word": "x", "keywordList": [{"keyword": "x", "sum": 32}]}
